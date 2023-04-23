@@ -1,0 +1,12 @@
+{
+    "firstName": "Janne",
+    "lastName": "Sirviö",
+    "intro": [
+        "I'm a software engineer with a passion for solving complex problems and delivering high quality solutions. My main focus has been in the backend but I'm eager to develop my frontend skills as well.",
+        "In my spare time, I enjoy working on personal projects. You can have a look at some of my work here."
+    ],
+    "about": [
+        "My expertise lies in modern Java and Spring. On the databases I have worked with MySQL, PostgreSQL and MongoDB. I have experience with infrastructure automation using Ansible, and am proficient in DevOps tools such as Jenkins and Azure DevOps.",
+        "I have had also privilegde to educate myself in the world of software monitoring in the form of a master's thesis. As the master's thesis I designed and implemented a monitoring system for the use of company that I worked for. My thesis can be downloaded and explored from the University of Turku web site (link is in the My projects part of this site)."
+    ]
+}

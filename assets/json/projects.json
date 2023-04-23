@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Monitoring of a Cloud-Based IT Infrastructure",
+        "stack": {
+            "name": "Master's thesis",
+            "iconClasses": "fas fa-book"
+        },
+        "description": "Objective of this thesis is to build a monitoring system for a SaaS company that is suffering from the increased complexity.",
+        "sourceUrl": "https://urn.fi/URN:NBN:fi-fe2021052030903",
+        "previewUrl": "https://urn.fi/URN:NBN:fi-fe2021052030903",
+        "featured": true
+    },
+    {
+        "name": "Hour Recording system",
+        "stack": {
+            "name": "JavaFX",
+            "iconClasses": "fab fa-java"
+        },
+        "description": "Java FX application that records worked hours.",
+        "sourceUrl": "https://github.com/jaausi/tuntiKirjausProject",
+        "previewUrl": "https://github.com/jaausi/tuntiKirjausProject",
+        "featured": true
+    },
+    {
+        "name": "Temperature Converter CLI",
+        "stack": {
+            "name": "Go",
+            "iconClasses": "fab fa-golang"
+        },
+        "description": "Converts temperature between Fahrenheit and Celsius.",
+        "sourceUrl": "https://github.com/jaausi/golang-temperature-converter-cli",
+        "previewUrl": "https://github.com/jaausi/golang-temperature-converter-cli",
+        "featured": true
+    },
+    {
+        "name": "time-tracking-service",
+        "stack": {
+            "name": "Java",
+            "iconClasses": "fab fa-java"
+        },
+        "description": "Spring Boot backend service for tracking worked hours. (WIP)",
+        "sourceUrl": "https://github.com/jaausi/time-tracking-service",
+        "previewUrl": "https://github.com/jaausi/time-tracking-service",
+        "featured": false
+    }
+]
