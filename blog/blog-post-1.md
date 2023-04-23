@@ -2,8 +2,6 @@
 title: 'Blog Post 1'
 description: 'Your first blog post'
 published: true
-slugs:
-    - ___UNPUBLISHED___ldj9g3zh_YgYiqPxdCPrmwHiWxHyory8Ql1ChaztX
 ---
 
 # Blog Post 1
