@@ -14,5 +14,5 @@ jobs:
           node-version: "16"
       - uses: cmgriffing/scully-gh-pages-action@v10
         with:
-          access-token: ${{ secrets.PORTFOLIO_PUBLISH }}
+          access-token: ${{ secrets.ACCESS_TOKEN }}
           deploy-branch: deploy
