@@ -4,8 +4,8 @@ staticPort: 1668
 reloadPort: 2667
 hostName: localhost
 projectName: portfolio
-homeFolder: /Users/sirvio/gitRepos/jaausi.github.io/portfolio
+homeFolder: /Users/sirvio/gitRepos/jaausi.github.io
 distFolder: dist/portfolio
-outDir: /Users/sirvio/gitRepos/jaausi.github.io/portfolio/dist/static
+outDir: /Users/sirvio/gitRepos/jaausi.github.io/dist/static
 handle404: ''
 allowErrorCollect: false
